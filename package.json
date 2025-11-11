@@ -2,6 +2,7 @@
 	"name": "@petesousa/start-pkg",
 	"version": "0.0.1",
 	"main": "index.js",
+	"repository": "github:petesousa/start-pkg",
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com"
 	}
