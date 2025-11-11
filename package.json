@@ -1,5 +1,8 @@
 {
-	"name": "@pedrosousa/start-pkg",
+	"name": "@petesousa/start-pkg",
 	"version": "0.0.1",
-	"main": "index.js"
+	"main": "index.js",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com"
+	}
 }
